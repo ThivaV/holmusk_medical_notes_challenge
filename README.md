@@ -1,2 +1,3 @@
-# holmusk_medical_notes_challenge
+# Holmusk medical notes challenge
+
 Medical notes NLP challenge
