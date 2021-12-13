@@ -13,4 +13,8 @@
 
 1. Then from the 'MedicalConcepts.csv', if 'Term1' or `Term2` passed it should identify similar ones
 
-    * Yes can 
+    * Yes can
+
+### Outcomes
+
+![With spaCy text preprocessing and tokenization](/img/img_1.png)
