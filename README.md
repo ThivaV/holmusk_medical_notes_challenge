@@ -17,4 +17,9 @@
 
 ### Outcomes
 
-![With spaCy text preprocessing and tokenization](/img/img_1.png)
+* We could clearly see there're some overlapping in the class predictions.
+This may occur due to not doing the proper preprocessing.
+
+    ![With spaCy text preprocessing and tokenization](/img/img_1.png)
+
+*        
